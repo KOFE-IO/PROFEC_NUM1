@@ -1,0 +1,11 @@
+* {
+    box-sizing: border-box;
+}
+
+#header-cloud {
+    position: absolute;
+    width: 142px;
+    height: 28.61px;
+    left: 105px;
+    top: 52.99px;
+}
